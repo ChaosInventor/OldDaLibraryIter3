@@ -1,0 +1,8 @@
+#ifndef FUNDAMENTAL__FUNDAMENTAL_FUNDAMENTAL_H
+#define FUNDAMENTAL__FUNDAMENTAL_FUNDAMENTAL_H
+
+#include "Byte.h"
+#include "Size.h"
+#include "Boolean.h"
+
+#endif //FUNDAMENTAL__FUNDAMENTAL_FUNDAMENTAL_H

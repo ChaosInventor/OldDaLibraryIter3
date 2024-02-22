@@ -1,0 +1,8 @@
+#ifndef FUNDAMENTAL__FUNDAMENTAL_SIZE_DEFINITION_H
+#define FUNDAMENTAL__FUNDAMENTAL_SIZE_DEFINITION_H
+
+#include <stddef.h> //For size_t
+
+typedef size_t Size;
+
+#endif //FUNDAMENTAL__FUNDAMENTAL_SIZE_DEFINITION_H

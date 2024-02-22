@@ -1,0 +1,9 @@
+#ifndef FUNDAMENTAL__FUNDAMENTAL_BOOLEAN_CONSTANTS_H
+#define FUNDAMENTAL__FUNDAMENTAL_BOOLEAN_CONSTANTS_H
+
+#include "BooleanDefinition.h"
+
+extern const Boolean TRUE;
+extern const Boolean FALSE;
+
+#endif //FUNDAMENTAL__FUNDAMENTAL_BOOLEAN_CONSTANTS_H

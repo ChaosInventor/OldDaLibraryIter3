@@ -1,0 +1,9 @@
+#ifndef INDEXABLE__INTERFACES_INDEXABLE_INDEXABLE_CONSTANTS_H
+#define INDEXABLE__INTERFACES_INDEXABLE_INDEXABLE_CONSTANTS_H
+
+#include "IndexableDefinition.h"
+
+extern struct Indexable g_ZeroIndexable;
+extern const struct IndexableBatch NULL_INDEXABLE_BATCH;
+
+#endif //INDEXABLE__INTERFACES_INDEXABLE_INDEXABLE_CONSTANTS_H

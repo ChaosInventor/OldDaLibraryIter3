@@ -1,0 +1,11 @@
+#ifndef FUNDAMENTAL__FUNDAMENTAL_BYTE_CONSTANTS_H
+#define FUNDAMENTAL__FUNDAMENTAL_BYTE_CONSTANTS_H
+
+#include "ByteDefinition.h"
+
+extern const Byte BYTE_MINIMUM;
+extern const Byte BYTE_MAXIMUM;
+
+extern const Byte BITS_PER_BYTE;
+
+#endif //FUNDAMENTAL__FUNDAMENTAL_BYTE_CONSTANTS_H

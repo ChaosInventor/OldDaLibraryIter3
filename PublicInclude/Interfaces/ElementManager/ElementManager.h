@@ -1,0 +1,8 @@
+#ifndef ELEMENT_MANAGER__INTERFACES_ELEMENT_MANAGER_ELEMENT_MANAGER_H
+#define ELEMENT_MANAGER__INTERFACES_ELEMENT_MANAGER_ELEMENT_MANAGER_H
+
+#include "ElementManagerDefinition.h"
+#include "ElementManagerFunctions.h"
+#include "ElementManagerConstants.h"
+
+#endif //ELEMENT_MANAGER__INTERFACES_ELEMENT_MANAGER_ELEMENT_MANAGER_H

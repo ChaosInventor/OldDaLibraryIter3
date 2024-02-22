@@ -1,0 +1,16 @@
+#ifndef INTEGER_MANAGER__INTERFACES_INTEGER_MANAGER_INTEGER_MANAGER_CONSTANTS_H
+#define INTEGER_MANAGER__INTERFACES_INTEGER_MANAGER_INTEGER_MANAGER_CONSTANTS_H
+
+#include "Interfaces/Callback/CallbackDefinition.h"
+#include "IntegerManagerDefinition.h"
+
+extern struct IntegerManager g_CharIntegerManager;
+extern struct IntegerManager g_ShortIntegerManager;
+extern struct IntegerManager g_IntIntegerManager;
+extern struct IntegerManager g_LongIntegerManager;
+extern struct IntegerManager g_LongLongIntegerManager;
+extern struct IntegerManager g_SizeIntegerManager;
+
+extern struct Callback g_DefaultOverflowCallback;
+
+#endif //INTEGER_MANAGER__INTERFACES_INTEGER_MANAGER_INTEGER_MANAGER_CONSTANTS_H

@@ -1,0 +1,8 @@
+#ifndef SEQUENCE__INTERFACES_SEQUENCE_CALLBACK_SEQUENCE_H
+#define SEQUENCE__INTERFACES_SEQUENCE_CALLBACK_SEQUENCE_H 
+
+#include "SequenceDefinition.h"
+
+struct Sequence CreateCallbackSequenceUsingSequenceUsingCallback();
+
+#endif //SEQUENCE__INTERFACES_SEQUENCE_CALLBACK_SEQUENCE_H
